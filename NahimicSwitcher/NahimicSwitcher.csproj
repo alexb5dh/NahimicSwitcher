@@ -55,34 +55,34 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Nahimic -- Com.cmd">
+    <None Include="Presets\Nahimic -- Com.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Nahimic -- Shooter.cmd">
+    <None Include="Presets\Nahimic -- Shooter.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Nahimic -- Strategy.cmd">
+    <None Include="Presets\Nahimic -- Strategy.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Nahimic -- Roleplay.cmd">
+    <None Include="Presets\Nahimic -- Roleplay.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Nahimic -- Racing.cmd">
+    <None Include="Presets\Nahimic -- Racing.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Nahimic -- ON.cmd">
+    <None Include="Presets\Nahimic -- ON.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Nahimic -- OFF.cmd">
+    <None Include="Presets\Nahimic -- OFF.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Nahimic -- Toogle.cmd">
+    <None Include="Presets\Nahimic -- Toogle.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Nahimic -- Movie.cmd">
+    <None Include="Presets\Nahimic -- Movie.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Nahimic -- Music.cmd">
+    <None Include="Presets\Nahimic -- Music.cmd">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
