@@ -12,12 +12,12 @@ namespace NahimicSwitcher
             if (args.Length == 0 || new[] { "/?", "-h", "-help", "--help" }.Contains(args[0]))
             {
                 Console.WriteLine($"Nahimic is {(nahimic.Enabled ? "ON" : "OFF")}.");
-                Console.WriteLine();
+                Console.WriteLine($"Current profile is \"{nahimic.CurrentProfile.Name}\".");
 
-                Console.WriteLine("Supported profiles:");
+                Console.WriteLine("\nSupported profiles:");
                 foreach (var profile in nahimic.Profiles)
                 {
-                    Console.WriteLine(profile.Name);
+                    Console.WriteLine($"  {profile.Name}");
                 }
             }
 
