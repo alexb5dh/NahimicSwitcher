@@ -3,3 +3,5 @@
 [Rr]elease*/
 
 .vs/
+
+*.user
